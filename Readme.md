@@ -5,7 +5,7 @@ Hi there, I'm a PhD student  working primarily on Cyber security and Deep learni
 </a>
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Navy&layout=compact&count_private=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Abdelaziz&layout=compact&count_private=true&theme=dark" />
 </a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tlkh.visitor-badge&left_color=green&right_color=red)
