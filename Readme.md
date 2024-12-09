@@ -1,7 +1,7 @@
 Hi there, I'm a PhD student  working primarily on Cyber security and Deep learning.
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amr-Navy&count_private=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amr-Abdelaziz&count_private=true&theme=dark" />
 </a>
 
 <a href="#">
